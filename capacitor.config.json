@@ -1,0 +1,6 @@
+{
+  "appId": "com.example.kartenapp",
+  "appName": "karten-app",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}

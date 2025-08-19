@@ -1,0 +1,47 @@
+PODS:
+  - Capacitor (7.4.2):
+    - CapacitorCordova
+  - CapacitorCordova (7.4.2)
+  - CapacitorGeolocation (7.1.4):
+    - Capacitor
+    - IONGeolocationLib (~> 1.0)
+  - CapacitorPreferences (7.0.1):
+    - Capacitor
+  - CapgoNativegeocoder (7.1.8):
+    - Capacitor
+  - IONGeolocationLib (1.0.0)
+
+DEPENDENCIES:
+  - "Capacitor (from `../../node_modules/@capacitor/ios`)"
+  - "CapacitorCordova (from `../../node_modules/@capacitor/ios`)"
+  - "CapacitorGeolocation (from `../../node_modules/@capacitor/geolocation`)"
+  - "CapacitorPreferences (from `../../node_modules/@capacitor/preferences`)"
+  - "CapgoNativegeocoder (from `../../node_modules/@capgo/nativegeocoder`)"
+
+SPEC REPOS:
+  trunk:
+    - IONGeolocationLib
+
+EXTERNAL SOURCES:
+  Capacitor:
+    :path: "../../node_modules/@capacitor/ios"
+  CapacitorCordova:
+    :path: "../../node_modules/@capacitor/ios"
+  CapacitorGeolocation:
+    :path: "../../node_modules/@capacitor/geolocation"
+  CapacitorPreferences:
+    :path: "../../node_modules/@capacitor/preferences"
+  CapgoNativegeocoder:
+    :path: "../../node_modules/@capgo/nativegeocoder"
+
+SPEC CHECKSUMS:
+  Capacitor: 9d9e481b79ffaeacaf7a85d6a11adec32bd33b59
+  CapacitorCordova: 5e58d04631bc5094894ac106e2bf1da18a9e6151
+  CapacitorGeolocation: 32a1f849c38c72b5071de36a28ebc548ef3bb611
+  CapacitorPreferences: 6c98117d4d7508034a4af9db64d6b26fc75d7b94
+  CapgoNativegeocoder: f23baa66000c8522794bb78f0d3c318600e0b946
+  IONGeolocationLib: 81f33f88d025846946de2cf63b0c7628e7c6bc9d
+
+PODFILE CHECKSUM: 2c5ae345f8e6847b99299b4283d63d5eea655b42
+
+COCOAPODS: 1.16.2
